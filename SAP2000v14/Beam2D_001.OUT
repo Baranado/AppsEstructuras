@@ -1,0 +1,16 @@
+ SAP2000 v14.0.0 Advanced (Analysis Build 8802/32)                              
+ File: E:\AppsBaranado\AppsEstructuras\SAP2000v14\Beam2D_001.OUT                
+                                                                     
+                                                                       
+
+ D I S P L A C E M E N T   D E G R E E S   O F   F R E E D O M
+
+         (A) = Active DOF, equilibrium equation
+         (-) = Restrained DOF, reaction computed
+         (+) = Constrained DOF
+         (>) = External substructure DOF
+         ( ) = Null DOF
+
+  JOINTS              UX  UY  UZ  RX  RY  RZ
+       1               -   -   -   -   -   -
+       2               A   A   A   A   A   A
